@@ -1,5 +1,3 @@
-# ChuraLife privacy policy
+# Moved
 
-The privacy policy of the ChuraLife app, in English, Japanese and German, served at https://niclasb4217.github.io/churalife-privacy/.
-
-Questions about it go in this repository's issues.
+The ChuraLife privacy policy now lives at https://churalifeapp.github.io/privacy/. This page only redirects there.
